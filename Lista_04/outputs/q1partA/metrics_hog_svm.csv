@@ -1,2 +1,2 @@
-model,train_accuracy,test_accuracy,train_size,test_size,hog_descriptor_size,image_size
-OpenCV HOG + linear SVM,0.624049837114934,0.5829333333333333,17497,7500,6084,224x224
+model,train_accuracy,test_accuracy,test_macro_f1,test_weighted_f1,train_size,test_size,svm_c,svm_c_tuned,hog_preset,hog_block_size,hog_block_stride,hog_cell_size,hog_descriptor_size,image_size,aspect_ratio_padding,clahe
+OpenCV HOG + linear SVM,0.7801908898668343,0.7530666666666667,0.7528692080655519,0.7528692080655519,17497,7500,0.01,True,balanced,"(32, 32)","(16, 16)","(16, 16)",6084,224x224,True,True
