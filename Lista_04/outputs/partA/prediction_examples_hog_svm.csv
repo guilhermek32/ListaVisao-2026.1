@@ -1,0 +1,9 @@
+path,label,class_name,pred_label,pred_class,correct
+PetImages/Cat/10340.jpg,0,Cat,0,Cat,True
+PetImages/Cat/7398.jpg,0,Cat,0,Cat,True
+PetImages/Dog/2855.jpg,1,Dog,1,Dog,True
+PetImages/Dog/383.jpg,1,Dog,1,Dog,True
+PetImages/Dog/4104.jpg,1,Dog,0,Cat,False
+PetImages/Dog/4182.jpg,1,Dog,0,Cat,False
+PetImages/Cat/6043.jpg,0,Cat,1,Dog,False
+PetImages/Cat/8193.jpg,0,Cat,1,Dog,False

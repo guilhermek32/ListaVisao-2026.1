@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+         Cat     0.9922    0.9856    0.9889      3749
+         Dog     0.9857    0.9923    0.9890      3749
+
+    accuracy                         0.9889      7498
+   macro avg     0.9890    0.9889    0.9889      7498
+weighted avg     0.9890    0.9889    0.9889      7498

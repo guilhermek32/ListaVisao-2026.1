@@ -1,0 +1,2 @@
+model,train_accuracy,test_accuracy,train_size,test_size,hog_descriptor_size,image_size
+OpenCV HOG + linear SVM,0.624049837114934,0.5829333333333333,17497,7500,6084,224x224

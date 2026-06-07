@@ -1,0 +1,9 @@
+path,label,class_name,prob_dog,pred_label,pred_class,correct
+PetImages/Cat/9683.jpg,0,Cat,1.2933931e-11,0,Cat,True
+PetImages/Cat/9327.jpg,0,Cat,0.0008058382,0,Cat,True
+PetImages/Dog/6826.jpg,1,Dog,1.0,1,Dog,True
+PetImages/Dog/10026.jpg,1,Dog,0.9997241,1,Dog,True
+PetImages/Cat/5202.jpg,0,Cat,0.5267428,1,Dog,False
+PetImages/Cat/7284.jpg,0,Cat,0.9785857,1,Dog,False
+PetImages/Cat/6442.jpg,0,Cat,0.8399901,1,Dog,False
+PetImages/Dog/4142.jpg,1,Dog,0.3217467,0,Cat,False
